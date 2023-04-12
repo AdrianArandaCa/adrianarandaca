@@ -1,17 +1,19 @@
-<h1 align="center">Hola 👋, soy Adrian Aranda</h1>
-<h3 align="center">Junior developer, estudiando DAM en Granollers actualmente</h3>
+<h1 align="center">Hola 👋, encantado de conocerte, soy Adrián, gracias por pasarte por mi repositorio!</h1>
+<h3 align="center">Mobile developer especializado en Swift -> | Swift 5 & iOS | Kotlin & Android | C# | Java </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianarandaca&label=Profile%20views&color=0e75b6&style=flat" alt="adrianarandaca" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianarandaca" alt="adrianarandaca" /></a> </p>
+- 💻 iOS developer
 
-- 🌱 Actualmente estoy estudiando **Java, Kotlin, Android Studio, XML**
+- 🌱 Actualmente estoy finalizando mis estudios de **DAM (Desarrollo de aplicaciones multimedia)**
 
-- 💬 Sobre mi **Actitud positiva, autodidacta y perfeccionista**
+- 💬 Sobre mi -> **Actitud positiva, autodidacta y perfeccionista**
 
 - 📫 Me puedes encontrar en **aacampanario91@gmail.com**
 
-- 📄 Experiéncias [A la espera de la primera!](A la espera de la primera!)
+- 📄 Experiéncias:
+  - iOS developer en CatalogPlayer
 
 - ⚡ Personalidad **Extrovertido**
 
