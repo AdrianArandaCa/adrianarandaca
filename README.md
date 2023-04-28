@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, encantado de conocerte, soy Adrián, gracias por pasarte por mi repositorio!</h1>
-<h3 align="center">Apasionado Mobile developer especializado en Swift -> | Swift 5 & iOS | Kotlin & Android | C# | Java</h3>
+<h3 align="center">Apasionado Mobile developer especializado en Swift -> | Swift 5 & iOS | Kotlin & Jetpack Compose & Android | C# & .NET & ASP.NET | Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrianArandaCa&label=Profile%20views&color=0e75b6&style=flat" alt="AdrianArandaCa" /> </p>
 
