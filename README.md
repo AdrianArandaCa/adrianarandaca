@@ -7,16 +7,16 @@
 
 - 💻 iOS developer
 
-- 🌱 Actualmente estoy finalizando mis estudios de **DAM (Desarrollo de aplicaciones multimedia)**
+- 📖 Actualmente estoy finalizando mis estudios de **DAM (Desarrollo de aplicaciones multimedia)**
 
 - 💬 Sobre mi -> **Actitud positiva, autodidacta y perfeccionista**
 
 - 📫 Me puedes encontrar en **aacampanario91@gmail.com**
 
-- 📄 Experiéncias:
+- 📄 Experiéncias como desarrollador:
   - iOS developer en CatalogPlayer
 
-- ⚡ Personalidad **Extrovertido**
+- ⚡ Personalidad: **Extrovertido** && **Responsable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
