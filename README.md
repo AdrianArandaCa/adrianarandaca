@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdrianArandaCa" alt="AdrianArandaCa" /></a> </p>
 
-- 🌱 Actualmente estoy finalizando mis estudios de **DAM (Desarrollo de aplicaciones multimedia)**
+- 🌱 Estudios -> **DAM (Desarrollo de aplicaciones multimedia)**
 
 - 💬 Sobre mi -> **Actitud positiva, autodidacta y perfeccionista**
 
